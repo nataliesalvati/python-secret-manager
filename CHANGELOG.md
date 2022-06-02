@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.1](https://github.com/googleapis/python-secret-manager/compare/v2.11.0...v2.11.1) (2022-06-02)
+
+
+### Bug Fixes
+
+* **deps:** require protobuf <4.0.0dev ([#303](https://github.com/googleapis/python-secret-manager/issues/303)) ([f5cb81d](https://github.com/googleapis/python-secret-manager/commit/f5cb81dd549b701f73676713585d48f2c452c8f2))
+
 ## [2.11.0](https://github.com/googleapis/python-secret-manager/compare/v2.10.0...v2.11.0) (2022-05-05)
 
 
